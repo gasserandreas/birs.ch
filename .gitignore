@@ -1,0 +1,2 @@
+# ignore default .env files
+**/.env
